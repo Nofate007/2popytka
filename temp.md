@@ -10,4 +10,8 @@ road to hell
 
 tro=lolol
 
+<<<<<<< HEAD
 megafno1
+=======
+megafno2
+>>>>>>> way2
